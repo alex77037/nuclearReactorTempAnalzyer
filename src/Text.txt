@@ -1,0 +1,15 @@
+**Task:**
+Solve the problem using collections, List, ArrayList.
+
+1) The user continuously inputs numbers into the program - the temperature of the nuclear reactor.
+2) After EACH input, provide the user with the following information:
+2.1) The average temperature of the nuclear reactor over ALL time.
+2.2) How the current input temperature differs from the previous one.
+2.3) If the input temperature exceeds the average by 10% and
+has increased compared to the previous value by more than 20%,
+display a message on the screen "Warning, temperature exceeded".
+
+**Advanced task:**
+
+3.1) Also, calculate the average temperature for the last 10 measurements and
+the average temperature of every 100th measurement.
